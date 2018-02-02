@@ -18,3 +18,7 @@ Do you:
 [Breathe?](../yoga/breathe/breathe.md)
 
 [Want to get high?](../weed/weed.md)
+
+[Call a doctor?](../call-a-doctor/doctor.md)
+
+[Don't know what a cookie is?](https://en.wikipedia.org/wiki/Chocolate_chip_cookie)
